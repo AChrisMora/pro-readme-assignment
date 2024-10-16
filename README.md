@@ -8,17 +8,18 @@ This is a program made to create a custom README file for the user.
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#guestions)
 
 ## Installation
 
-undefined
+You can install the program right here through my repo.
 
 ## Usage
     
-To use this project you need to install node.
+To use the program you would need to install node.
 
 ## License
 
@@ -26,13 +27,13 @@ To use this project you need to install node.
     
 ## Contributing
     
-If you would like to contribute reach out to me.
+If you would like to contribute to this project please reach out to me.
     
 ## Tests
     
-This would be the test!
+This is the test!!
     
 ## Questions
     
-- Github: [AChrisMora](https://github.com/AChrisMora)
-- Email: achrismora@gmail.com
+-Github: [AChrisMora](https://github.com/AChrisMora)
+-Email: achrismora@gmail.com
