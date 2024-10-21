@@ -1,8 +1,8 @@
-# ProREADME Challenge
+# ProReadMe Generator
 
 ## Description
 
-This is a program made to create a custom README file for the user.
+This is a program designed to generate a custom README file for the user.
 
 ## Table of Contents
 
@@ -15,11 +15,11 @@ This is a program made to create a custom README file for the user.
 
 ## Installation
 
-You can install the program right here through my repo.
+You can install the program through my github.
 
 ## Usage
     
-To use the program you would need to install node.
+To use this program ensure that node is installed in your desktop.
 
 ## License
 
@@ -27,11 +27,11 @@ To use the program you would need to install node.
     
 ## Contributing
     
-If you would like to contribute to this project please reach out to me.
+If you would like to contribute to this project, reach out to me.
     
 ## Tests
     
-This is the test!!
+This would be the test!!
     
 ## Questions
     
