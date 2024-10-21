@@ -45,7 +45,7 @@ ${description}
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Questions](#guestions)
+- [Questions](#questions)
 
 ## Installation
 
