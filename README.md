@@ -11,15 +11,15 @@ This is a program designed to generate a custom README file for the user.
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Questions](#guestions)
+- [Questions](#questions)
 
 ## Installation
 
-You can install the program through my github.
+You can install this program through my repo.
 
 ## Usage
     
-To use this program ensure that node is installed in your desktop.
+To use the program ensure to have node installed.
 
 ## License
 
@@ -27,11 +27,12 @@ To use this program ensure that node is installed in your desktop.
     
 ## Contributing
     
-If you would like to contribute to this project, reach out to me.
+If you would like to contribute to the project, reach out to me.
     
 ## Tests
     
-This would be the test!!
+This is the test!!
+https://drive.google.com/file/d/16tSzDUS-MVbw3go6TW3N5l5hxC24NMoz/view?usp=drive_link
     
 ## Questions
     
